@@ -15,10 +15,10 @@ To run the encryption decryption machine in a terminal window, please download t
 - decryption.py
 
 Open a new terminal window and run the encryption.py file by typing: 
-   # python encryption.py
+   >>> python encryption.py
 
 You will be prompted to input some numbers and message that you want to encrypt. Copy the encryption list to clipboard. (i.e. [60, 31, 207, 207, 19, 34, 40, 13, 77, 40, 131, 1, 13, 31, 40, 42, 15,40, 108, 1, 13, 42, 207, 1]) Next, run the decryption.py file by typing:
-  # python decryption.py
+   >>> python decryption.py
  
 You will be prompted to input the encryption list you copied earlier, so if you didn't copy it from the encryption file then please scroll up and copy the list above. 
 
