@@ -1,6 +1,6 @@
 # Encryption-Decryption-Machine
 
-This encryption machine takes in a string message and converts it into an encrypted message to be sent to the recipient. The recipient, once the message is received can then use the decryption machine to convert the message back to a readable string.
+This encryption machine takes in a string message and converts it into an encrypted message to be sent to a recipient. The recipient, once the message is received can then use the decryption machine to convert the message back to a readable string.
 
 # Jupyter Notebook: 
 To run the encryption decryption machine in a Jupyter notebook, please download the following files in the same folder:
